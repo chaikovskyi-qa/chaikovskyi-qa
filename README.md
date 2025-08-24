@@ -1,16 +1,14 @@
-## Hi there 👋
+# Oleksandr Chaikovskyi — Junior QA  
 
-<!--
-**chaikovskyi-qa/chaikovskyi-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Oleksandr, a Junior QA Engineer from Ukraine.  
+I specialize in manual and API testing, with growing skills in automation.  
 
-Here are some ideas to get you started:
+## 🔧 Skills  
+- Manual & API testing (Postman + Newman CI)  
+- SQL (JOIN/GROUP BY), DevTools, Test Design  
+- Selenium basics, Mobile (emulators)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Portfolio Projects  
+- [API Testing Project](https://github.com/chaikovskyi-qa/api-testing)  
+- [Web Testing](https://github.com/chaikovskyi-qa/web-testing)  
+- [Mobile QA](https://github.com/chaikovskyi-qa/mobile-testing)  
